@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "057b661b793dbdbb8bd08be3126f6eed"
+build_time: [556140320, 837694000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Byte.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Modification.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Ports.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+String.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Parser/Parser.swift": [556140284, 0]

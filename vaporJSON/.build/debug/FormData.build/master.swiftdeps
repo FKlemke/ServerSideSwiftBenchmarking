@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "33d514c3fd74840a841b6526a3954312"
+build_time: [556140333, 792612000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/ContentDispositionParser.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Field.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Parser.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Serializer.swift": [556140283, 0]

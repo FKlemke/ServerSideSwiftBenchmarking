@@ -1,0 +1,73 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CommandError"
+provides-nominal:
+- "O5Vapor12CommandError"
+provides-member:
+- ["O5Vapor12CommandError", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "CommandError"
+- "String"
+- "Swift"
+depends-member:
+- ["O5Vapor12CommandError", "String"]
+- ["O5Vapor12CommandError", "_code"]
+- ["O5Vapor12CommandError", "_domain"]
+- ["O5Vapor12CommandError", "_getEmbeddedNSError"]
+- ["O5Vapor12CommandError", "_userInfo"]
+- ["O5Vapor12CommandError", "deinit"]
+- ["O5Vapor12CommandError", "general"]
+- ["Ps5Error", "_code"]
+- ["Ps5Error", "_domain"]
+- ["Ps5Error", "_getEmbeddedNSError"]
+- ["Ps5Error", "_userInfo"]
+- ["Ps5Error", ""]
+depends-nominal:
+- "O5Vapor12CommandError"
+- "Ps5Error"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/JSON.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/SMTP.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/HTTP.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/TLS.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/FormData.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/libc.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Node.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Cache.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/PathIndexable.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Console.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Core.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Debugging.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Crypto.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Branches.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Cookies.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Configs.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Sessions.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Sockets.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/WebSockets.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/BCrypt.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/Transport.swiftmodule"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/CHTTP.build/module.modulemap"
+interface-hash: "374e7edc56a98fd2ad53022bf54b3252"

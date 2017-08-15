@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "7c544efc61d07dceed10625587f9d273"
+build_time: [556140335, 243703000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Arguments.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Directory.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigError.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigInitializable.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Environment.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible+Merge.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Node+Merge.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Source.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Env.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Node+Env.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/String+Env.swift": [556140281, 0]

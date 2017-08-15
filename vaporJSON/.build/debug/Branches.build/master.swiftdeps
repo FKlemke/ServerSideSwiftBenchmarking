@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "0213fc5b97c33ae55125fe9c41bf3563"
+build_time: [556140331, 829029000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/Branch+Paths.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/Branch.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/SubBranchMap.swift": [556140283, 0]

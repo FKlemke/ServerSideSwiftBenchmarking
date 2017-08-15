@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/vaporJSON.build/master.swiftdeps"
+  },
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/Sources/main.swift": {
+    "dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/vaporJSON.build/main.d",
+    "object": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/vaporJSON.build/main.swift.o",
+    "swiftmodule": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/vaporJSON.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/vaporJSON.build/main.swiftdeps"
+  }
+}

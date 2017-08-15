@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "569c413af45ddabcc20891fca33c2c78"
+build_time: [556140336, 275282000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/CacheSessions.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/MemorySessions.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/Request+Session.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/Session.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsError.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsMiddleware.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsProtocol.swift": [556140281, 0]

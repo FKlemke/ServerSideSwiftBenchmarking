@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "113267c5759987753842b735f245a135"
+build_time: [556140297, 840451000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": [556140281, 0]

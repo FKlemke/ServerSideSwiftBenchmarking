@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/master.swiftdeps"
+  },
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Byte.swift": {
+    "dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+Byte.d",
+    "object": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/Model/URI+Byte.swift.o",
+    "swiftmodule": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+Byte~partial.swiftmodule",
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+Byte.swiftdeps"
+  },
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Modification.swift": {
+    "dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+Modification.d",
+    "object": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/Model/URI+Modification.swift.o",
+    "swiftmodule": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+Modification~partial.swiftmodule",
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+Modification.swiftdeps"
+  },
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Ports.swift": {
+    "dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+Ports.d",
+    "object": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/Model/URI+Ports.swift.o",
+    "swiftmodule": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+Ports~partial.swiftmodule",
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+Ports.swiftdeps"
+  },
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+String.swift": {
+    "dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+String.d",
+    "object": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/Model/URI+String.swift.o",
+    "swiftmodule": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+String~partial.swiftmodule",
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI+String.swiftdeps"
+  },
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI.swift": {
+    "dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI.d",
+    "object": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/Model/URI.swift.o",
+    "swiftmodule": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI~partial.swiftmodule",
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/URI.swiftdeps"
+  },
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Parser/Parser.swift": {
+    "dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/Parser.d",
+    "object": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/Parser/Parser.swift.o",
+    "swiftmodule": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/URI.build/Parser.swiftdeps"
+  }
+}

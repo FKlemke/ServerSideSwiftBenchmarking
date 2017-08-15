@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "e1c07077b3888013eccce8a89ffb2871"
+build_time: [556140328, 520701000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+BytesConvertible.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Parse.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Serialize.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+BytesConvertible.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Literal.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Parse.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Serialize.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Request+Cookies.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Response+Cookies.swift": [556140284, 0]

@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "305d7df9665c2bd6aadff24b772b024d"
+build_time: [556140316, 532639000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Bytes.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Equatable.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Fuzzy.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Parse.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Serialize.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONContext.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONRepresentable.swift": [556140283, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/json.git-9153249592855998091/Sources/JSON/Sequence+Convertible.swift": [556140283, 0]

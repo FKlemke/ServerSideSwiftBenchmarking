@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "63bd144e59edf37c4e04a024de9f659f"
+build_time: [556140335, 243122000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/CacheProtocol.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/MemoryCache.swift": [556140281, 0]

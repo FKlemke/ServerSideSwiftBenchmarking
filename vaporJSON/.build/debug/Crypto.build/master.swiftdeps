@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "230c26bf165c6417a04cab9a392ce13f"
+build_time: [556140304, 611475000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher+Method.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/ByteStream.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Exports.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Helpers.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash+Method.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC+Method.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Hash+Random.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/LibreSSLError.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/PseudoRandom.swift": [556140284, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Random.swift": [556140284, 0]

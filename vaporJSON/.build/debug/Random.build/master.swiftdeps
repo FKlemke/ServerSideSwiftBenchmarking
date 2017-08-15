@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "1c2ea84373680a0b47c5f1041473773b"
+build_time: [556140300, 371244000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/random.git--3118593962244350674/Sources/Random/Array+Random.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/random.git--3118593962244350674/Sources/Random/EmptyInitializable.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/random.git--3118593962244350674/Sources/Random/Exports.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/random.git--3118593962244350674/Sources/Random/OSRandom.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/random.git--3118593962244350674/Sources/Random/RandomProtocol.swift": [556140281, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/random.git--3118593962244350674/Sources/Random/URandom.swift": [556140281, 0]

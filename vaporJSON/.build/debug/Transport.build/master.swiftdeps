@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "2f7607b97233a7dbf03f5563569b0957"
+build_time: [556140300, 371248000]
+inputs:
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Exports.swift": [556140282, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ClientStream.swift": [556140282, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/InternetStream.swift": [556140282, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/Port.swift": [556140282, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ServerStream.swift": [556140282, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/FoundationStream.swift": [556140282, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/ReadableStream.swift": [556140282, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/Stream.swift": [556140282, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/StreamError.swift": [556140282, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/WriteableStream.swift": [556140282, 0]
