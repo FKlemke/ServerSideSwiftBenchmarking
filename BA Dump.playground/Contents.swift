@@ -1,6 +1,5 @@
 
-
-import vapor
+import Vapor
 
 func getJSON() -> [String: String] {
         var rndJSON = [String: String]()
