@@ -5,7 +5,9 @@ provides-nominal:
 provides-member:
 provides-dynamic-lookup:
 depends-top-level:
+- "Dictionary"
 - "Droplet"
+- "JSON"
 - "StringLiteralType"
 - "drop"
 depends-member:
@@ -28,10 +30,19 @@ depends-member:
 - ["P4SMTP25EmailAddressRepresentable", "init"]
 - ["P4SMTP22EmailBodyRepresentable", "init"]
 - ["Ps9Equatable", "init"]
+- ["Ps25ExpressibleByArrayLiteral", "init"]
+- ["Ps27ExpressibleByBooleanLiteral", "init"]
+- ["Ps30ExpressibleByDictionaryLiteral", "init"]
 - ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps25ExpressibleByFloatLiteral", "init"]
+- ["Ps27ExpressibleByIntegerLiteral", "init"]
+- ["Ps23ExpressibleByNilLiteral", "init"]
 - ["Ps26ExpressibleByStringLiteral", "init"]
 - ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["P4Node14FuzzyConverter", "init"]
 - ["Ps8Hashable", "init"]
+- ["V4JSON4JSON", "init"]
+- ["P4JSON17JSONRepresentable", "init"]
 - ["Ps25LosslessStringConvertible", "init"]
 - ["Ps10MirrorPath", "init"]
 - ["PSo8NSCoding", "init"]
@@ -43,6 +54,7 @@ depends-member:
 - ["P4Node17NodeInitializable", "init"]
 - ["P4Node17NodeRepresentable", "init"]
 - ["P7Routing15Parameterizable", "init"]
+- ["P13PathIndexable13PathIndexable", "init"]
 - ["P13PathIndexable11PathIndexer", "init"]
 - ["P5Vapor23RequestContentSubscript", "init"]
 - ["P4HTTP9Responder", "get"]
@@ -53,6 +65,7 @@ depends-member:
 - ["P7Routing12RouteBuilder", "init"]
 - ["P7Routing12RouteBuilder", "run"]
 - ["SS", "init"]
+- ["P4Node21StructuredDataWrapper", "init"]
 - ["Ps16TextOutputStream", "init"]
 - ["Ps20TextOutputStreamable", "init"]
 - ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
@@ -79,10 +92,19 @@ depends-nominal:
 - "P4SMTP25EmailAddressRepresentable"
 - "P4SMTP22EmailBodyRepresentable"
 - "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- "Ps27ExpressibleByBooleanLiteral"
+- "Ps30ExpressibleByDictionaryLiteral"
 - "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps25ExpressibleByFloatLiteral"
+- "Ps27ExpressibleByIntegerLiteral"
+- "Ps23ExpressibleByNilLiteral"
 - "Ps26ExpressibleByStringLiteral"
 - "Ps33ExpressibleByUnicodeScalarLiteral"
+- "P4Node14FuzzyConverter"
 - "Ps8Hashable"
+- "V4JSON4JSON"
+- "P4JSON17JSONRepresentable"
 - "Ps25LosslessStringConvertible"
 - "Ps10MirrorPath"
 - "PSo8NSCoding"
@@ -94,12 +116,14 @@ depends-nominal:
 - "P4Node17NodeInitializable"
 - "P4Node17NodeRepresentable"
 - "P7Routing15Parameterizable"
+- "P13PathIndexable13PathIndexable"
 - "P13PathIndexable11PathIndexer"
 - "P5Vapor23RequestContentSubscript"
 - "P4HTTP9Responder"
 - "P4HTTP21ResponseRepresentable"
 - "P7Routing12RouteBuilder"
 - "SS"
+- "P4Node21StructuredDataWrapper"
 - "Ps16TextOutputStream"
 - "Ps20TextOutputStreamable"
 - "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
@@ -155,4 +179,4 @@ depends-external:
 - "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
 - "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
 - "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/.build/debug/CHTTP.build/module.modulemap"
-interface-hash: "0df9d5d6bbfc8d3d4965dd3377c9db71"
+interface-hash: "a65de9e346dc37725e47f5cca02eaf43"

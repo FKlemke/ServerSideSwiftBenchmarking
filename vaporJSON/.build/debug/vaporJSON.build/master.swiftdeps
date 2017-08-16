@@ -1,5 +1,5 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
 options: "a9cbe3ca15f1972ceecb654457a806ab"
-build_time: [556140354, 285505000]
+build_time: [556203345, 733162000]
 inputs:
-  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/Sources/main.swift": [556140200, 0]
+  "/Users/Fklemke/swiftbenchmarkproject/vaporJSON/Sources/main.swift": [556201721, 0]
